@@ -3,9 +3,9 @@ title: "Aides Drug"
 author: "Marshette Williams"
 date: "May 4, 2019"
 output: 
-    html_document:
-      number_section: true
-      toc: true
+html_document:
+number_section: true
+toc: true
 ---
 
 ```{r include=FALSE,echo=FALSE}
